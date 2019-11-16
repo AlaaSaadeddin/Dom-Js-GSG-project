@@ -1,0 +1,29 @@
+.outer-div {
+  text-align: center;
+  margin: 0px auto;
+}
+
+.parent-div {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  background-color: aqua;
+  justify-content: start;
+  align-items: flex-start;
+  align-content: flex-start;
+  flex-wrap: wrap;
+  border: 5px solid black;
+  margin: 30px auto;
+  padding: 3px;
+}
+
+.sequare {
+  background-color: white;
+}
+
+.new-btn {
+  background-color: green;
+  width: 170px;
+  height: 60px;
+  margin: 30px auto;
+}
